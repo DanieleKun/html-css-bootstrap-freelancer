@@ -1,0 +1,37 @@
+.bg_header {
+    background-color: rgb(44, 62, 80);
+    height: 80px;
+}
+
+.bg_jumbo {
+    background-color: rgb(26, 188, 156);
+
+    /* debug */
+    height: 400px;
+}
+
+.jumbotron img {
+    width: 200px;
+    height: 200px;
+}
+
+.row img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.bg_green {
+    background-color: rgb(26, 188, 156);
+
+    /* debug */
+    height: 300px;
+}
+
+.bg_footer {
+    background-color: rgb(58, 84, 109);
+}
+
+.bg_footer_dark {
+    background-color: rgb(44, 62, 80);
+    text-align: center;
+}
