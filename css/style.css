@@ -1,6 +1,10 @@
 .bg_header {
     background-color: rgb(44, 62, 80);
-    height: 80px;
+    /* height: 80px; */
+}
+
+.navbar {
+    color: white;
 }
 
 .bg_jumbo {
@@ -10,14 +14,49 @@
     height: 400px;
 }
 
+.jumbotron {
+    text-align: center;
+    color: white;
+}
+
 .jumbotron img {
     width: 200px;
     height: 200px;
 }
 
+.jumbotron h2 {
+    font-size: 50px;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon .fa-star {
+    margin: 0 10px;
+}
+
+.line {
+    width: 10%;
+    height: 2px;
+    background-color: white;
+    margin: 20px 0;
+}
+
+.black {
+    background-color: black;
+}
+
+.title-section {
+    text-align: center;
+}
+
 .row img {
     width: 100%;
     border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 .bg_green {
